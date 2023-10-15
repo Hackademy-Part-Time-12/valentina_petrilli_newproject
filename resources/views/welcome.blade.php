@@ -1,3 +1,3 @@
 <x-layout>
-    <h1>Ciao</h1>
+    <h1>AnimeClick</h1>
 </x-layout>
